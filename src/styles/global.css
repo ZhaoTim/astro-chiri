@@ -106,9 +106,9 @@ html {
 }
 
 body {
-  font-family: 'TsangerJinKai03 W04';
-  -webkit-font-smoothing: antialiased;
-  font-feature-settings: 'ss03' 1;
+  font-family: 'Source Han Serif CN';
+  /* -webkit-font-smoothing: antialiased; */
+  /* font-feature-settings: 'ss03' 1; */
   font-size: 24px;
   text-autospace: normal;
   text-rendering: optimizeLegibility;
