@@ -126,7 +126,7 @@ body {
   text-autospace: normal;
   text-spacing-trim: space-first;
   text-rendering: optimizeLegibility;
-  font-synthesis: none;
+  /* font-synthesis: none; */
   word-wrap: break-word;
   overflow-wrap: break-word;
   text-align: justify;
