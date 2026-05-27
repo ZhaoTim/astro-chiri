@@ -1,0 +1,9 @@
+# public/_headers
+
+# 为所有 HTML 页面设置缓存
+/*
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+# 为带 hash 的静态资源设置长期缓存
+/_astro/*
+  Cache-Control: public, max-age=31536000, immutable
