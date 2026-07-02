@@ -11,8 +11,8 @@
   --mono: 'SF Mono', SFMono-Regular, monospace;
 
   --font-size-s: 18px;
-  --font-size-m: 22px;
-  --font-size-l: 26px;
+  --font-size-m: 26px;
+  --font-size-l: 30px;
 
   --font-weight-light: 350;
   --font-weight-regular: 400;
@@ -106,7 +106,7 @@ html {
 }
 
 body {
-  font-family: '寒蝉全圆体';
+  font-family: '寒蝉半圆体';
   /* -webkit-font-smoothing: antialiased; */
   /* font-feature-settings: 'ss03' 1; */
   font-size: 24px;
